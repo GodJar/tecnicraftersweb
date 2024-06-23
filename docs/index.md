@@ -1,11 +1,11 @@
 ---
-layout: home
-navname: Home
+layout: inicio
+navname: Inicio
 
 # Cells at the bottom of the page
 cellLinks:
   - cname: Server Map
-    curl: map
+    curl: https://map.tecnicrafters.net
     cimage: media/demo02.jpg
 
   - cname: Screenshots
@@ -13,6 +13,6 @@ cellLinks:
     cimage: media/demo03.jpg
 
   - cname: Donate
-    curl: donate
+    curl: https://paypal.me/jorshstark
     cimage: media/demo04.jpg
 ---
