@@ -12,7 +12,7 @@ showinSearchEngines: true
 
 # Set basic server info
 serverName: TecniCrafters
-serverDescription: Puerto bedrock 19132
+serverDescription: "Puerto bedrock 19132"
 serverIP: play.tecnicrafters.net
 useBedrockForOnlineStatus: false
 
@@ -30,7 +30,7 @@ discordChannelID: 1204607796025360405
 # 
  siteNav:
    - name: Server Map
-     url: map
+     url: "https://map.tecnicrafters.net"
      newtab: true
 #   - name: Screenshots
 #     url: screenshots
