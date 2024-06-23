@@ -28,12 +28,12 @@ discordChannelID: 1204607796025360405
 # #   url - The link it should go to (for example, if you have "maps.md" file, put "maps")
 # #   newtab - Whether link should open in new tab
 # 
-siteNav:
-  - name: Server Map
-    url: "https://map.tecnicrafters.net"
-    newtab: true
-  - name: Donations
-    url: screenshots
+# siteNav:
+#  - name: Server Map
+#    url: "https://map.tecnicrafters.net"
+#    newtab: true
+#  - name: Donations
+#    url: donate
 #  - name: About
 #     url: about
 
