@@ -4,11 +4,11 @@ navname: Home
 
 # Cells at the bottom of the page
 cellLinks:
-  - cname: Server Map
+  - cname: Mapa
     curl: map
     cimage: media/demo02.jpg
 
-  - cname: Donate
+  - cname: Donaciones
     curl: donate
     cimage: media/demo04.jpg
 ---
