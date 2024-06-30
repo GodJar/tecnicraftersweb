@@ -5,9 +5,21 @@ navname: About
 
 # {{ site.serverName }}
 
-Moonrise is a simple, flexible template website for Minecraft servers.
+Servidor de survival técnico, última versión de Java Y Bedrock, enfocado en comunidad para NO premium y premium.
+¡Hay geniales items nuevos y dinámicas que harán de tu experiencia algo especial! El Texturepack opcional incluye skins custom, nuevos items y mobs.
+¡También encontrarás Dungeons con bosses especiales, ítems únicos y armas customizadas!
+¡Y tenemos mundo creativo!
+El staff es muy activo, y siempre está trabajando para arreglar cualquier problema o duda que surja ¡No dudes en hablarles!
+¡La comunidad te espera!
 
-[GitHub](https://github.com/coffeebank/moonrise)
+Vota por nosotros en los siguientes sitios:
+[Sitio 1](https://minecraftservers.org/vote/663624)
+[Sitio 2](https://servidoresdeminecraft.es/server/vote/8ae9fXBk/play.tecnicrafters.net)
+[Sitio 3](https://topminecraftservers.org/server/38091)
+[Sitio 4](https://www.40servidoresmc.es/tecnicrafters-votar)
+[Sitio 5](https://minecraft-mp.com/server/333602/vote/)
+[Sitio 6](https://www.planetminecraft.com/server/tecnicrafters/vote/)
+[Sitio 7](https://minecraft-server.net/vote/TecniCrafters/)
 
 
 # Terms of Use
