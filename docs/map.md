@@ -1,4 +1,4 @@
 ---
 layout: redirect
-tourl: https://map.tecnicrafters.net
+tourl: http://map.tecnicrafters.net:27842/
 ---
